@@ -1,6 +1,7 @@
 PHP-Calendar
---Angela Bradley
 ============
+
+by Angela Bradley
 
 Very simple PHP Calendar
 
