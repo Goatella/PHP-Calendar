@@ -137,3 +137,11 @@ width=42>F</td><td width=42>S</td></tr>";
  
  echo "</tr></table>"; 
 ?>
+
+
+
+<p>
+
+<a href="http://www.goatella.com">Goatella's home page</a> <p>
+
+<a href="https://github.com/Goatella/PHP-Calendar">This calendar on GitHub.</a>
